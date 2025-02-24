@@ -14,7 +14,7 @@ The Flipkart Clone is a full-stack e-commerce web application simulating the cor
 •	Payment Integration: Secure payments through Stripe.
 
 3. Technology Stack
-•	Frontend: React.js (Vite), HTML, CSS, Material-UI
+•	Frontend: React.js (Vite), HTML5, Tailwind CSS, JavaScript.
 •	Backend: Spring Boot. 
 •	Database:  MySQL
 •	Deployment: Vercel (Frontend), Render (Backend)
@@ -44,6 +44,9 @@ Order API:
 Payment API:
 •	POST /api/payment/checkout - Process payment using Stripe
 
+5. Conclusion
+
+This project aims to provide a comprehensive understanding of building a full-stack e-commerce application. Users can browse products, manage their cart and wishlist, place orders, make secure payments, and track their orders in real-time with a user-friendly interface and smooth navigation.
 
 
 
