@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for the Flipkart Clone project using Express.js",
+  "homepage": "https://github.com/omkar1103/Flipkart-Clone#readme",
+  "bugs": {
+    "url": "https://github.com/omkar1103/Flipkart-Clone/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkar1103/Flipkart-Clone.git"
+  },
+  "license": "ISC",
+  "author": "Omkar Khandu Sahane",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
